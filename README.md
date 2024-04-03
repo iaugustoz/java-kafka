@@ -14,6 +14,12 @@ Projeto em andamento.
 
 - Java (v17.0.5).
 
+### Dependências
+
+- [Spring Web](https://start.spring.io/);
+- [Lombok](https://start.spring.io/);
+- [Spring for Apache Kafka](https://start.spring.io/).
+
 ## Instalando
 
 1. Clone o repositório para o seu ambiente local:
