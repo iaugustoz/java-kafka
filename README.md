@@ -34,6 +34,12 @@ $ git clone https://github.com/igoraugustobrz/java-kafka
 $ cd java-kafka
 ```
 
+3. Execute o Kafka com Docker:
+
+```
+$ docker-compose up -d
+```
+
 ## Contribuindo
 
 Contribuições são bem-vindas! Se você quiser contribuir para o projeto, siga as etapas abaixo:
