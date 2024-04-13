@@ -4,6 +4,11 @@
 
 Repositório destinado ao entendimento do conceito e da prática do Kafka. Pretendo aprender um pouco mais sobre o Apache Kafka e sua relação com a linguagem Java.
 
+Para abordar os aspectos do Kafka foi utilizada a estratégia de dividir em módulos cada recurso (produto, consumidor, etc):
+
+- str-producer (Produtor Kafka);
+- str-consumer (Consumidor Kafka).
+
 ## Status do projeto
 
 Projeto em andamento.
