@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.iaugusto</groupId>
 	<artifactId>str-consumer</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0</version>
 	<name>str-consumer</name>
 	<description>Consumidor Kafka</description>
 	<properties>
