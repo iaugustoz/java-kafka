@@ -9,6 +9,10 @@ Para abordar os aspectos do Kafka foi utilizada a estratégia de dividir em mód
 - str-producer (Produtor Kafka);
 - str-consumer (Consumidor Kafka).
 
+<div align="center">
+<img src="images/Fluxo do kafka.png" width="2000px" alt="Imagem do site" title="Fluxo do Kafka"/>
+</div>
+
 ## Status do projeto
 
 Projeto em andamento.
