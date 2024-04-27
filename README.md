@@ -7,7 +7,8 @@ Repositório destinado ao entendimento do conceito e da prática do Kafka. Prete
 Para abordar os aspectos do Kafka foi utilizada a estratégia de dividir em módulos cada recurso (produto, consumidor, etc):
 
 - str-producer (Produtor de mensagens em formato de string);
-- str-consumer (Consumidor Kafka de str-producer).
+- str-consumer (Consumidor Kafka de str-producer);
+- payment-service (Produtor de mensagens em formato JSON).
 
 Obs: todos os recursos/funcionalidades implementadas são meramente ilustrativas, apenas servem para demonstrar o conceito em sua mais pura essência.
 
