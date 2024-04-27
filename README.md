@@ -8,7 +8,8 @@ Para abordar os aspectos do Kafka foi utilizada a estratégia de dividir em mód
 
 - str-producer (Produtor de mensagens em formato de string);
 - str-consumer (Consumidor Kafka de str-producer);
-- payment-service (Produtor de mensagens em formato JSON).
+- payment-service (Produtor de mensagens em formato JSON);
+- json-consumer (Consumidor Kakfa de payment-service).
 
 Obs: todos os recursos/funcionalidades implementadas são meramente ilustrativas, apenas servem para demonstrar o conceito em sua mais pura essência.
 
