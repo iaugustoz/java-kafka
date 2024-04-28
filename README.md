@@ -19,7 +19,7 @@ Obs: todos os recursos/funcionalidades implementadas são meramente ilustrativas
 
 ## Status do projeto
 
-Projeto em andamento.
+Projeto concluído.
 
 ## Pré-requisitos
 
